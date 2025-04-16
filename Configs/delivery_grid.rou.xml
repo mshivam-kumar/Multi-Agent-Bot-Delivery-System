@@ -1,0 +1,4 @@
+<routes>
+    <vType id="agent" length="2" minGap="1" maxSpeed="5" guiShape="passenger"/>
+    <route id="grid_route" edges="h0_0"/>
+</routes>
