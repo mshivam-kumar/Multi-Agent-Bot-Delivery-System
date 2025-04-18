@@ -1,0 +1,13 @@
+<configuration>
+    <input>
+        <net-file value="delivery_grid.net.xml"/>
+        <route-files value="delivery_grid.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+    </time>
+    <gui_only>
+        <gui-settings-file value="gui-settings.xml"/>
+    </gui_only>
+</configuration>
